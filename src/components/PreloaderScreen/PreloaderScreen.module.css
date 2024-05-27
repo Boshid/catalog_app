@@ -1,0 +1,14 @@
+.root {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #181818;
+}
+
+.preloader {
+  width: 200px;
+  height: 200px;
+}
